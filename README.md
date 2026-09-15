@@ -22,7 +22,7 @@ Datawhale社区的组队学习活动
 
 - [x] **Task00：[环境配置，前言](./group-study/Task00.md)**
 
-- [ ] **Task01：第四章 智能体经典范式构建**
+- [x] **Task01：[第四章 智能体经典范式构建](./group-study/Task01.md)**
 
 - [ ] **Task02：第七章 构建你的Agent框架**
 
